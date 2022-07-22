@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "crnInZaj6jFmVboyRhykC6p2BU8EmCZwSAPdgoZPzP7BDLci4D7fW/QI3WcskyyxXu1Xp0sUA+utT4OcHskB8g==",
+  "success": true,
+  "projectFilePath": "D:\\c++ projects\\Calculator\\Calculator\\Calculator.iOS\\Calculator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Catmanaha\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Catmanaha\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Catmanaha\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
